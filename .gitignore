@@ -1,0 +1,15 @@
+env_lei/  # 忽略env_lei文件夹及其内部所有文件
+.vscode/  # 忽略VS Code配置文件夹
+*.pyc  # 忽略Python编译的字节码文件 
+# 忽略Python编译的字节码文件
+*.pyo  # 忽略Python优化的字节码文件 
+# 忽略Python虚拟环境文件夹
+__pycache__/  # 忽略Python缓存文件夹    
+# 忽略Python虚拟环境文件夹
+*.pyd  # 忽略Python动态链接库文件       
+# 忽略Python虚拟环境文件夹
+*.egg  # 忽略Python打包的egg文件    
+# 忽略Python打包的egg文件
+*.egg-info/  # 忽略Python打包的egg信息文件夹    
+# 忽略Python打包的egg信息文件夹
+*.whl  # 忽略Python打包的wheel文件
